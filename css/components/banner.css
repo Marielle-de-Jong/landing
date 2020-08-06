@@ -1,0 +1,17 @@
+.banner {
+    background: url(../../images/ryan-hutton-Jztmx9yqjBw-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+
+/* When adding overlay, my background size and position do no longer work */
+.banner > .container > h1 {
+    color: white;
+}
+
+.banner > .container > p {
+    color: white;
+    opacity: .7;
+    font-size: 20px;
+}

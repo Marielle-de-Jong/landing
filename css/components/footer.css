@@ -1,0 +1,19 @@
+.footer {
+    text-align: center;
+    background-color: #792834;
+    padding-top: 20px;
+}
+
+.footer .links > a {
+    font-size: 40px;
+    color: #6C63FF;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    display: inline-block;
+    margin: 0px 5px;
+}
+
+.footer .links p {
+    padding-bottom: 40px;
+    margin: 0px;
+}
